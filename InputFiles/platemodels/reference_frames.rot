@@ -1,0 +1,312 @@
+999  0.0    0.0    0.0    0.0  999 !    Edit by Nicky Wright, 2024-10-15
+999  0.0    0.0    0.0    0.0  999 !    To use a PMAG reference frame. Rotations below are from Simon (via Maria)
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !	IF MAKING AN APWP THEN NO TPW CORRECTION. THEREFORE 701-001, 001-000.
+999  0.0    0.0    0.0    0.0  999 !	IF A TPW CORRECTION IS NEEDED (E.G. MOST OF THE TIME), THEN 701-070, 070-071, 071-001, 001-000.
+999  0.0    0.0    0.0    0.0  999 !	
+999  0.0    0.0    0.0    0.0  999 !	
+7001  0.0    0.0    0.0    0.0   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001  5.0    0.0   83.9    1.5   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 10.0    0.0   80.0    3.4   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 20.0    0.0   85.6    5.8   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 30.0    0.0   90.3    7.1   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 40.0    0.0   99.0    9.5   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 50.0    0.0  115.6   14.5   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 60.0    0.0  125.3   17.1   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 70.0    0.0  133.3   18.3   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 80.0    0.0  139.2   19.4   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 90.0    0.0  145.6   20.6   001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 100.0    0.0  153.2   23.0  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 110.0    0.0  168.7   31.8  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 120.0    0.0  171.3   36.4  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 130.0    0.0  170.9   40.7  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 140.0    0.0  172.1   44.2  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 150.0    0.0  167.2   36.9  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 160.0    0.0  165.9   34.6  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 170.0    0.0  163.9   34.1  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 180.0    0.0  168.5   27.9  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 190.0    0.0  166.6   23.2  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 200.0    0.0  152.2   21.0  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 210.0    0.0  146.3   25.4  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 220.0    0.0  140.4   31.6  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 230.0    0.0  140.0   37.0  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 240.0    0.0  146.1   41.7  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 250.0    0.0  150.7   45.3  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 260.0    0.0  151.8   45.7  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 270.0    0.0  150.1   50.2  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 280.0    0.0  147.1   55.6  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 290.0    0.0  145.4   57.1  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 300.0    0.0  143.5   58.7  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 310.0    0.0  138.5   62.0  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+7001 320.0    0.0  131.8   64.9  001 ! AFR-TPW Torsvik et al. (2012), Table 10 RM f=0.6, South Pole.
+070  0.0    0.0    0.0    0.0  071 !	070-071 TPW correction from Torsvik et al. (2012), Table 12 (note that the sign of the angles needed reversing to match figures and Domeier and Torsvik, 2014 rot file). COMMENT OUT IF NO TPW CORRECTION IS REQUIRED.
+070 100.0    0.0    0.0    0.0  071
+070 110.0    0.0   11.0    8.0  071
+070 140.0    0.0   11.0    8.0  071
+070 150.0    0.0    0.0    0.0  071
+070 200.0    0.0   11.0  -22.5  071
+070 250.0    0.0    0.0    0.0  071
+999  0.0    0.0    0.0    0.0  071 !	USE THIS SET OF 070-071 IF NO TPW CORRECTION IS REQUIRED (E.G. TO PLOT AN APWP). COMMENT OUT IF TPW CORRECTION IS REQUIRED
+999 200.0    0.0    0.0    0.0  071
+999 600.0    0.0    0.0    0.0  071
+071  0.0    0.0    0.0    0.0  001 !	Longitudinal shift (not using one in this rotation file, therefore these are zero rotations)
+071 200.0    0.0    0.0    0.0  001
+071 600.0    0.0    0.0    0.0  001
+001  0.0    0.0    0.0    0.0  000 !	Hotspot - Spin axis
+001 200.0    0.0    0.0    0.0  000
+001 600.0    0.0    0.0    0.0  000 !
+999  0.0    0.0    0.0    0.0  999 !    Edit by Nicky Wright, 2023-03-27
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !    O'Neill et al. 2005 hotspot reference frame
+999  0.0    0.0    0.0    0.0  999 !
+701  0.0   90.0    0.0    0.0  001 !  AFR-AHS Africa-Indian/Atlantic Hotspots
+701 10.0   46.19  -87.86   -1.92  001 !  AFR-AHS O'Neill et.al 2005
+701 20.0   45.23  -78.55   -3.99  001 !  AFR-AHS O'Neill et.al 2005 interpolated RDM Dec 2004
+701 30.0   43.54  -69.67   -6.05  001 !  AFR-AHS O'Neill et.al 2005
+701 40.0   44.56  -54.31   -8.08  001 !  AFR-AHS O'Neill et.al 2005
+701 50.0   36.97  -58.9  -10.26  001 !  AFR-AHS O'Neill et.al 2005
+701 60.0   23.73  -42.14  -12.53  001 !  AFR-AHS O'Neill et.al 2005
+701 70.0   20.74  -39.07  -13.77  001 !  AFR-AHS O'Neill et.al 2005 interpolated RDM Dec 2004
+701 80.0   17.69  -36.11  -15.0  001 !  AFR-AHS O'Neill et.al 2005 interpolated RDM Dec 2004
+701 90.0   14.6  -33.26  -16.24  001 !  AFR-AHS O'Neill et.al 2005
+701 100.0   14.4  -29.63  -20.08  001 ! AFR-AHS O'Neill et.al 2005
+701 110.0    6.61  -29.5  -26.77  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 120.0    6.11  -25.08  -30.45  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 130.0    5.89  -25.36  -33.75  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 140.0    7.58  -25.91  -38.53  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 150.0   10.31  -27.71  -37.25  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 165.0   10.02  -22.59  -40.28  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 180.0   10.74  -16.48  -39.04  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 185.0   11.5  -16.17  -36.57  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 190.0   11.32  -21.6  -34.98  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 200.0    9.57  -28.86  -37.21  001 ! AFR-AHS PM corrected TPW derived from Steinberger & Torsvik 2008
+701 250.0    9.57  -28.86  -37.21  001 ! AFR-AHS PM extended rotation SZ2013
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !    Edit by Nicky Wright, 2023-03-27
+999  0.0    0.0    0.0    0.0  999 !    Ref frame from Müller et al. 2016 (before the edit/fix)
+999  0.0    0.0    0.0    0.0  999 !
+7002  0.0    0.0    0.0    0.0  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot    
+7002 10.0   29.4  -27.5   -2.3  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 20.0   29.4  -27.5   -4.5  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 30.0   29.4  -27.5   -6.8  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 40.0   29.4  -27.5   -9.0  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 50.0   32.4  -25.3  -10.6  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 60.0   36.4  -22.1  -11.9  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 70.0   31.4  -29.1  -14.1  001 !AFR-GLH @REF Torsvik_++_2008 @DOI"10.1029/2007RG000227" Global Moving Hotspot @absage
+7002 105.0  -29.38  142.95   28.28  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 120.0  -23.2  149.92   33.01  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 130.0  -21.39  149.64   36.13  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 140.0  -21.01  149.09   41.02  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 150.0  -23.94  147.29   40.22  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 160.0  -24.6  149.94   39.81  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 170.0  -24.21  158.85   41.4  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 180.0  -23.71  158.52   42.02  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 190.0  -25.71  153.4   38.18  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 200.0  -23.29  146.14   40.06  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 210.0  -20.5  139.22   42.59  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 220.0  -18.04  134.14   45.46  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 231.0  -17.17  131.75   44.09  001 !AFR-GLH @REF Steinberger_Torsvik_2008 @DOI"10.1038/nature06824", TPW-corrected PMAG modified to include a 10 deg. longitudinal shift, Interpolated from Steinberger and Torsvik (2008) by Seton et al. (2012) @absage
+7002 250.0   -2.78  150.08   45.34  001 !AFR-GLH @REF Domeier_Torsvik_2014 @DOI"10.1016/j.gsf.2014.01.002", 250 Ma rotation for model merge @xo_ys
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !    Edit by Nicky Wright, 2023-03-27
+999  0.0    0.0    0.0    0.0  999 !    Ref frame from Müller et al. 2019
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !> @MPRS:id"701" @MPRS:code"AFR" @MPRS:name"Austral Africa"       
+999  0.0    0.0    0.0    0.0  999 !> @PP"AFR-AHS" @C"Austral Africa; relative to Indian/Atlantic Hotspots since 70 Ma" @GTS"Abs"      
+999  0.0    0.0    0.0    0.0  999 !> @C"The 105 to 70 Ma timeframe is a period of transition from the TPW-corrected PMAG frame to the Global Moving Hotspot frame"
+999  0.0    0.0    0.0    0.0  999 !> @C"For times before 105 Ma, the TPW-corrected frame of Steinberger and Torsvik (2008) is modified with a longitudinal shift based on Butterworth et al. (2014) to  improve forward geodynamic model predictions of slab structure in the mantle and minimise net rotation of the plates" 
+7003  0.0   90.0    0.0    0.0 				001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003  5.0   51.485  -79.3057   -1.4599  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 10.0   51.09  -79.41   -2.92  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 15.0   54.0403  -71.5818   -4.0635 	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 20.0   55.35  -66.9   -5.23  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 25.0   54.0451  -62.1581   -6.689  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 30.0   53.05  -59.37   -8.16  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 35.0   49.3672  -56.329   -9.2871  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 40.0   46.42  -54.24  -10.45  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 45.0   45.7206  -51.7595  -11.9307  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 50.0   45.12  -49.85  -13.42  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 55.0   43.6053  -52.0838  -14.2752  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 60.0   42.2  -53.93  -15.15  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 65.0   39.3206  -55.5692  -15.8857  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 70.0   36.66  -56.93  -16.66  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 75.0   33.7468  -55.5078  -19.0793  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 80.0   31.38  -54.64  -21.55  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 85.0   29.0179  -52.7873  -24.6073  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 90.0   27.12  -51.52  -27.72  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 95.0   25.9575  -50.1438  -29.7253  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 100.0   24.92  -49.07  -31.76  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 105.0   23.5797  -46.8733  -33.247  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 110.0   22.31  -44.9  -34.77  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 115.0   20.5053  -43.4222  -36.9102  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 120.0   18.82  -42.14  -39.08  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 125.0   17.3678  -41.7415  -40.8969  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 130.0   16.01  -41.38  -42.73  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 135.0   15.9858  -40.4963  -43.8325  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 140.0   15.95  -39.67  -44.95  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 145.0   17.2845  -39.5146  -45.1663  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 150.0   18.6  -39.34  -45.39  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 155.0   18.1019  -38.5248  -46.2537  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 160.0   17.6  -37.74  -47.12  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 165.0   16.7236  -37.1287  -48.2188  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 170.0   15.89  -36.54  -49.33  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 175.0   15.6485  -35.7715  -49.307  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 180.0   15.26  -35.01  -49.24  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 185.0   15.0406  -34.3877  -49.176  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 190.0   14.75  -33.77  -49.09  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 195.0   14.3831  -34.2161  -49.5841  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 200.0   14.06  -34.64  -50.11  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 205.0   13.6284  -36.4237  -50.0179  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 210.0   13.04  -38.2  -49.98  			001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 215.0   12.505  -40.3584  -50.3826  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 220.0   11.77  -42.45  -50.86  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 225.0   11.2655  -43.8539  -51.2331  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 230.0   10.64  -45.22  -51.63  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 235.0    8.6955  -44.5166  -50.849  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 240.0    6.91  -43.67  -49.84  		001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 245.0    4.9515  -42.8676  -49.0303  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+7003 250.0    2.9326  -42.0458  -48.2813  	001 !AFR-000 @REF Muller_++_2019 @DOI"10.1029/2018TC005462" Optimised Absolute Reference Frame, model v2.0 @absage
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !  Edit by Nicky Wright, 2024-02-29
+999  0.0    0.0    0.0    0.0  999 !  Adding the reference frame from the PALEOMAP model
+999  0.0    0.0    0.0    0.0  999 !
+7004  0.0   0.0    0.0    0.0  001 !! AFR  south-central Africa
+7004  5.0  52.0  -16.3   -0.5  001 !! RDM interpolated
+7004 10.0  52.0  -16.3   -1.0  001 !! O'Connor and Duncan 1990
+7004 15.0  51.6  -22.0   -1.7  001 !! RDM interpolated
+7004 20.0  51.4  -24.3   -2.4  001 !! O'Connor and Duncan 1990
+7004 25.0  49.3  -33.7   -3.73  001 !! RDM interpolated
+7004 30.0  48.1  -37.9   -5.08  001 !! interpolated 2
+7004 35.0  44.8  -39.8   -6.77  001 !! RDM interpolated
+7004 40.0  42.8  -40.9   -8.47  001 !! RDM 8/3/90
+7004 45.0  37.1  -40.8  -10.21  001 !! RDM interpolated
+7004 50.0  33.0  -40.8  -12.02  001 !! RDM interpolated
+7004 55.0  30.7  -40.9  -13.16  001 !! RDM interpolated
+7004 60.0  29.9  -42.0  -14.18  001 !! interpolated
+7004 65.0  29.3  -42.9  -15.21  001 !! interpolated
+7004 70.0  25.29  -40.17  -16.68  001 !! RDM 3/16/91
+7004 75.0  18.52  -34.73  -18.8  001 !! RDM 3/16/91
+7004 80.0  17.9  -38.8  -19.9  001 !! RDM/CRS 03/16/91
+7004 90.0  21.69  -40.41  -21.17  001 !! RDM/CRS 03/16/91
+7004 95.0  21.43  -40.1  -22.95  001 !! RDM 3/16/91
+7004 100.0 -19.6  140.9   24.74  001 !!CRS 07/27/92
+7004 123.0  16.36  -15.0  -34.51  000 !!
+7004 160.0  21.54   -8.5  -34.48  000 !!
+7004 185.0  21.31  -10.0  -32.26  000 !!
+7004 205.0  27.19  -25.0  -25.9  000 !!
+7004 223.0  17.44  -33.0  -32.53  000 !!
+7004 240.0   0.0  138.0   44.0  000 !!
+7004 255.0   0.0  148.0   51.0  000 !!
+7004 273.0   0.0  151.0   57.0  000 !!
+7004 295.0   0.0  142.0   62.0  000 !!
+7004 306.0   0.0  141.38   66.08  000 !! CRS 05/09/92
+7004 342.0   1.06  123.94   64.99  000 !!
+7004 363.0   6.84  108.71   65.23  000 !!
+7004 404.0  20.86  119.88   94.95  000 !!
+7004 443.0  16.66  111.3  124.18  000 !!
+7004 515.0  35.7  120.4  134.25  000 !! CRS 03/30/97 -20cc:
+7004 580.0  46.2  110.89  124.01  000 !!
+7004 600.0  46.85  106.03  122.32  000 !!
+7004 650.0  43.06   97.02  123.55  000 !!  CRS 03/08/00
+7004 750.0  44.49   67.3  115.66  000 !!
+7004 1100.0  29.77   61.3  115.68  000 !!
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 ! Adding the reference frame from the Straume model - as is
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 ! The reference frame from Straume but recalculated to be a single rotation pole
+999  0.0    0.0    0.0    0.0  999 ! (so that it can be 'relative to 0' for this file)
+7006 0 90.0 0.0 0.0 000
+7006 10 15.24407886412824 -100.40052897122239 -3.520912082615443 000
+7006 20 18.109433171912137 -95.35387111934307 -6.120709446060353 000
+7006 30 23.773568456935667 -91.22989463141968 -7.782342458709104 000
+7006 40 27.82557224369983 -83.54271203181696 -10.750833297982533 000
+7006 50 23.939703100485048 -67.67541506931357 -15.889478674363414 000
+7006 60 29.52518853916663 -59.613132682887915 -19.720413106842205 000
+7006 70 33.72006112977657 -52.91481529363007 -22.067567091391155 000
+7006 80 24.77457696065733 -45.346115896650616 -21.44055094262197 000
+7006 90 20.480444314105217 -38.271972470039536 -21.97944577605947 000
+7006 100 -16.13088492412375 149.80734420327948 23.987617109316854 000
+7006 110 15.800289840705895 -15.973702614537599 -33.04742376872617 000
+7006 120 15.704656564554595 -13.993945035931919 -37.88121809981787 000
+999  0.0    0.0    0.0    0.0  999 !
+999  0.0    0.0    0.0    0.0  999 ! Adding the PMAG reference frame Zahirovic et al. 2022.
+999  0.0    0.0    0.0    0.0  999 ! Note: the way it is outlayed in Zahirovic et al. is pretty confusing
+999  0.0    0.0    0.0    0.0  999 ! But it's the same reference frame as in Merdith et al. 2021
+999  0.0    0.0    0.0    0.0  999 !
+701701  0.0   90.0    0.0    0.0     000 ! AFR-070 Africa-longitude correction (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 10.0    0.0   97.19    5.31   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 20.0    0.0   91.92    6.71   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 30.0    0.0  102.08    8.54   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 40.0    0.0  117.34   13.73   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 50.0    0.0  124.39   15.27   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 60.0    0.0  129.74   16.83   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 70.0    0.0  138.56   18.91   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 80.0    0.0  142.15   19.77   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 90.0    0.0  151.23   20.74   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 100.0    0.0  159.7   23.92   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 110.0    0.0  165.43   28.74  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 120.0    0.0  169.28   32.69  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 130.0    0.0  168.73   35.79  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 140.0    0.0  168.24   39.3   000 !  AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 150.0    0.0  166.55   41.89  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 160.0    0.0  165.22   35.73  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 170.0    0.0  164.81   33.63  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 180.0    0.0  161.57   29.21  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 190.0    0.0  156.99   26.56  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 200.0    0.0  152.7   26.13   000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 210.0    0.0  147.26   26.82  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 220.0    0.0  146.59   29.53  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 230.0    0.0  148.46   37.21  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 240.0    0.0  150.42   42.82  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 250.0    0.0  152.87   47.36  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 260.0    0.0  152.55   51.43  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 270.0    0.0  150.95   51.36  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 280.0    0.0  148.21   53.97  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 290.0    0.0  145.23   57.94  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 300.0    0.0  141.98   57.87  000 ! AFR-070 (GAPWAP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 310.0    0.0  140.57   58.66  000 ! GON-070 Gondwana-Spin Axis (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 320.0    0.0  139.46   63.67  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 330.0    0.0  137.91   66.09  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 340.0    0.0  128.47   70.9   000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 350.0    0.0  116.38   78.48  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 360.0    0.0  110.03   83.68  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 370.0    0.0  108.08   85.39  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 380.0    0.0  107.56   86.03  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 390.0    0.0  106.38   80.23  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+701701 400.0    0.0  103.55   82.08  000 ! GON-070 (APWP) @REF Merdith_++_2021 @DOI"10.1016/j.earscirev.2020.103477"
+999 Africa placed in paleomagnetic reference frame of Vaes et al. (2023, Earth-Science Reviews)
+7007	0.0	0.0	90.0	0.0	0	!Vaes et al., 2023
+7007	1.3	0.0	43.2	0.4	0	!Vaes et al., 2023
+7007	10.0	0.0	64.1	2.1	0	!Vaes et al., 2023
+7007	20.0	0.0	99.4	7.3	0	!Vaes et al., 2023
+7007	30.0	0.0	113.2	9.2	0	!Vaes et al., 2023
+7007	40.0	0.0	116.1	10.4	0	!Vaes et al., 2023
+7007	50.0	0.0	121.0	14.8	0	!Vaes et al., 2023
+7007	60.0	0.0	125.2	16.3	0	!Vaes et al., 2023
+7007	70.0	0.0	129.1	16.9	0	!Vaes et al., 2023
+7007	80.0	0.0	141.5	17.4	0	!Vaes et al., 2023
+7007	90.0	0.0	154.9	21.8	0	!Vaes et al., 2023
+7007	100.0	0.0	161.5	25.8	0	!Vaes et al., 2023
+7007	110.0	0.0	170.7	32.1	0	!Vaes et al., 2023
+7007	120.0	0.0	170.0	35.0	0	!Vaes et al., 2023
+7007	130.0	0.0	172.7	39.3	0	!Vaes et al., 2023
+7007	140.0	0.0	174.1	40.0	0	!Vaes et al., 2023
+7007	150.0	0.0	173.7	36.6	0	!Vaes et al., 2023
+7007	160.0	0.0	173.1	34.2	0	!Vaes et al., 2023
+7007	170.0	0.0	168.6	31.1	0	!Vaes et al., 2023
+7007	180.0	0.0	169.5	25.8	0	!Vaes et al., 2023
+7007	190.0	0.0	165.3	24.2	0	!Vaes et al., 2023
+7007	200.0	0.0	153.5	24.6	0	!Vaes et al., 2023
+7007	210.0	0.0	148.1	27.1	0	!Vaes et al., 2023
+7007	220.0	0.0	143.8	30.5	0	!Vaes et al., 2023
+7007	230.0	0.0	143.1	33.3	0	!Vaes et al., 2023
+7007	240.0	0.0	148.3	43.2	0	!Vaes et al., 2023
+7007	250.0	0.0	151.7	47.3	0	!Vaes et al., 2023
+7007	260.0	0.0	152.4	47.9	0	!Vaes et al., 2023
+7007	270.0	0.0	148.5	49.0	0	!Vaes et al., 2023
+7007	280.0	0.0	146.2	53.1	0	!Vaes et al., 2023
+7007	290.0	0.0	147.0	55.4	0	!Vaes et al., 2023
+7007	300.0	0.0	142.1	59.2	0	!Vaes et al., 2023
+7007	310.0	0.0	135.3	63.4	0	!Vaes et al., 2023
+7007	320.0	0.0	129.8	61.8	0	!Vaes et al., 2023
