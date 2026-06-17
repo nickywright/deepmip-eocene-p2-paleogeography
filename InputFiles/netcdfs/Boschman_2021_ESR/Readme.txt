@@ -3,7 +3,7 @@
 This is a processed copy of Boschman's (2021) South America paleotopography. This is from her preferred reconstruction, and can be obtained from the Supplementary data associated with her paper: 
 Boschman, L.M., 2021, Andean mountain building since the Late Cretaceous: A paleoelevation reconstruction, Earth-Science Reviews, v220, https://doi.org/10.1016/j.earscirev.2021.103640
 
-I've (Nicky Wright) converted this to a netcdf using:
+I (Nicky Wright) converted this to a netcdf using:
 
 The following commands (in R):
 # ---- 
